@@ -1,2 +1,2 @@
 # ARVR
-Developer Circle from Facebook.
+Developer Circle from Facebook
